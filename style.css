@@ -1,0 +1,90 @@
+html,
+body{
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: #333;
+}
+
+i{
+    font-size: 15px;
+    padding-right: 7px;
+}
+
+#staff-login{
+    width: 100%;
+}
+
+#staff-log img{
+    background-color: rgba(0,0,0,0.5);
+}
+
+#staff-login .container{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.container h3{
+    text-decoration: underline 5px solid #3CB161;
+    
+}
+
+.container h4{
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+}
+
+.container h4 i{
+    font-size: 15px;
+    padding-right: 7px;
+}
+
+.container form{
+    display: flex;
+    flex-direction: column;
+}
+
+.container form input{
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+.container button{
+    padding: 10px;
+    color: #fff;
+    background-color: #3CB161;
+    border: none;
+    margin-top: 10px;
+}
+
+.container p{
+    font-size: 12px;
+}
+
+.container .forgot{
+    color: #3CB161;
+    font-size: 16px;
+}
+
+.container .align-right{
+    text-align: right;
+}
+
+.container .align-right i{
+    font-size: 10px;
+}
