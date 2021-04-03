@@ -109,7 +109,7 @@ i{
     }
 
     .img-div{
-        background: url("/img/african-woman-teaching-children-class.png");
+        background: url("./img/african-woman-teaching-children-class.png");
         background-size: 100% 100%;
         background-repeat: no-repeat;   
         height: 100%; 
